@@ -1,4 +1,4 @@
-Trying to build sustainable mobile game.
+I am learning/trying to design/develop a mobile game.
 
 <!---
 nikgamedev/nikgamedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
